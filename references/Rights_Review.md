@@ -2,7 +2,11 @@
 
 Reviewed October 20, 2026. This is a record of source checks and unresolved release conditions, not a claim of permission or a legal determination.
 
-## Original slide files: public upload on hold
+## Archive status update — October 20, 2026
+
+After reading the initial review, the repository owner explicitly requested public archival of the complete, unchanged original PPTX. It is now included as `slides/Presentation.pptx`. The initial findings below are retained as the review record; the owner's publication instruction is not evidence of permission from third-party rightsholders. All original citations and unfinished contribution fields remain unchanged. No replacement illustrations or blanket license have been added.
+
+## Initial review: original slide files placed on hold
 
 | Material | Evidence in the supplied deck | Release consideration |
 | --- | --- | --- |

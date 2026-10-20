@@ -59,16 +59,16 @@ The optical system determines which information can be recovered: excitation wav
 
 ## Presentation Materials
 
-The 12-slide PPTX and the complete Pages speaking script have been reviewed. Public release of the slide files is on hold because the deck contains third-party figure excerpts. The original files have not been edited.
+The original 12-slide course presentation is archived unchanged, including its fonts, images, equations, layout, citations and unfinished contribution fields.
 
-| Intended repository path | Release status |
+| Material | Availability |
 | --- | --- |
-| `slides/Presentation.pptx` | Withheld pending figure-permission review |
-| `slides/Presentation.pdf` | Rendered export prepared; withheld pending figure-permission review |
-| [Speaking script (Markdown)](notes/Presentation_Notes.md) | Complete text recovered from Pages; available to read |
+| [Original presentation (PPTX)](slides/Presentation.pptx) | Complete, unmodified 12-slide original |
+| Presentation PDF | Not included: the available conversion substitutes fonts and does not meet the visual-fidelity requirement |
+| [Speaking script (Markdown)](notes/Presentation_Notes.md) | Complete text recovered from Pages |
 | [Speaking script (PDF)](notes/Presentation_Notes.pdf) | Four pages; re-typeset from the complete Pages text and checked |
 
-The notes PDF preserves the script text, timing suggestions and pointing prompts; it does not reproduce the original Pages layout. Slide download links will be added after clearance. See [figure and rights review](references/Rights_Review.md).
+The notes PDF preserves the script text, timing suggestions and pointing prompts; it does not reproduce the original Pages layout. The PPTX is the authoritative presentation file. Existing figure citations are retained; see the [figure and rights review](references/Rights_Review.md). Archiving the file does not transfer ownership of third-party material.
 
 ## References
 
@@ -95,4 +95,4 @@ The final slide contains unfinished group-contribution fields. Individual prepar
 
 ## 中文简介
 
-本项目是江南大学《生物大分子科学导论》课程的本科文献汇报，从光电信息科学与工程视角，梳理荧光标记、寿命成像、FRET及单分子定位成像如何提供蛋白质位置、构象和空间组织信息。MalE与微管图像均为文献实例，不是本人测量或重建的结果。项目用于记录文献学习和课堂汇报，原始幻灯片的公开发布仍待图片版权与成员分工确认。
+本项目是江南大学《生物大分子科学导论》课程的本科文献汇报，从光电信息科学与工程视角，梳理荧光标记、寿命成像、FRET及单分子定位成像如何提供蛋白质位置、构象和空间组织信息。MalE与微管图像均为文献实例，不是本人测量或重建的结果。项目用于记录文献学习和课堂汇报，原始12页幻灯片按原样归档，保留文献引用及尚未填写的成员分工；第三方图片权利归其权利人所有。
